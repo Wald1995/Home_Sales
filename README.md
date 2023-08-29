@@ -1,7 +1,7 @@
 # Home_Sales
 Module 22 Challenge
 
-#Instructions
+# Instructions
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 2. Import the necessary PySpark SQL functions for this assignment.
 3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
